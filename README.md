@@ -45,3 +45,5 @@ Testnet WSS required for xrpl.js: `wss://s.altnet.rippletest.net:51233/`
 - RPC: https://rpc-evm-poa-sidechain.peersyst.tech/
 - Chain ID: 1440002
 - Currency: XRP
+
+PRUEBA
